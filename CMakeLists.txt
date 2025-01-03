@@ -30,4 +30,3 @@ add_executable(lassi
 # Clang is more permissive with multiple definitions
 # On Mac, the math library is automatically linked, while on Linux it needs to be explicitly linked
 target_link_libraries(lassi PRIVATE m)
-target_link_libraries(lassi PRIVATE m)
