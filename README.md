@@ -12,3 +12,11 @@ For information about the underlying physics and an applied example, please see 
 LASSI was written by Furqan Dar and Jeong-Mo Choi in the [Pappu Lab](http://pappulab.wustl.edu/).
 
 This is a modified version under active development.
+
+How to compile:
+
+```
+cd build
+cmake ..
+make
+```
